@@ -75,7 +75,7 @@ def get_readable_time(seconds: int) -> str:
 
     return ping_time
 
-PM_START_TEXT = "*Hey {},*\n*I am {} 😌,*\n\n*• I'm a powerful group manager bot.👻*\n*• My Owner is* [Cyber01_Warriors](t.me/Cyber01_Warriors)😌❤❤\n*• Send /help available commands🛠*"
+PM_START_TEXT = "*Hey {},*\n*I am {} 😌,*\n\n*• I'm a powerful group manager bot.👻*\n*• My Owner is* [MrHackerTeamZ](t.me/MrHackerTeamZ)😌❤❤\n*• Send /help available commands🛠*"
 
 HELP_STRINGS = """
 Hey 👻! My name is *{}*.
@@ -221,16 +221,16 @@ def start(update: Update, context: CallbackContext):
                         [
                             InlineKeyboardButton(
                                 text="Support Group🧡",
-                                url=f"t.me/hellboysupportgroup",
+                                url=f"t.me/DangersRobot_Chat",
                             ),
                             InlineKeyboardButton(
                                 text="📌 Youtube Channel",
-                                url="https://www.youtube.com/channel/UCJmPdyfFnsmt5CbIETVH-SQ",
+                                url="https://youtube.com/channel/UCR54mEx6tzrwH-T4rKxJJiQ",
                             ),
                         ],
                         [
                             InlineKeyboardButton(
-                                text="🇱🇰 Developer", url="https://github.com/Cyber01warriors"
+                                text="🇱🇰 Developer", url="https://github.com/HACKER01"
                             ),
                         ],
                     ]
